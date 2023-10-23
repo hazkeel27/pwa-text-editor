@@ -23,11 +23,17 @@ The app also offers the option to download and install it as a standalone applic
 ## <a name="features"></a>Key Features 🔑
 
 **PWA:** A Progressive Web Application, offering an engaging user experience even offline.
+
 **IndexedDB:** Local storage powered by IndexedDB ensures content access without an internet connection.
+
 **Offline Access:** Users can edit and access content, whether online or offline.
+
 **Cross-Platform:** A consistent experience across different devices and platforms.
+
 **User-Friendly:** The app offers an intuitive and easy-to-use text editing interface.
+
 **Downloadable:** Users can install the app for quick offline access.
+
 **Caching:** Content loads swiftly, enhancing performance, especially when offline.
 
 ## <a name="installation"></a>Installation 🛠️
